@@ -1,5 +1,5 @@
 ﻿<?php
-echo "<div style = 'text-align:center'><h1>Email</h1><hr />";
+echo "<div style = 'text-align:center'><h1>URL</h1><hr />";
 
 	$strURL = "URL : https://www.google.com";
 
